@@ -16,4 +16,4 @@ The first paragraph text
 This is a sub paragraph, formatted in heading 3 style
 
 ## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
+The second paragraph text  
