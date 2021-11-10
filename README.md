@@ -12,5 +12,3 @@
 
 [//]: t{/Parametres/}
 [//]: s{/Parametres/}
-
-
