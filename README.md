@@ -12,3 +12,12 @@
 
 [//]: t{/Parametres/}
 [//]: s{/Parametres/}
+
+
+
+
+
+
+
+
+
