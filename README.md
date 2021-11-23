@@ -1,4 +1,4 @@
-[//]:s{Parametres/}
+[//]: s{Parametres/}
 ## Parametres
 [//]: t{Parametres/}
 
