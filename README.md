@@ -1,4 +1,7 @@
-﻿[//]: s{Parametres/}
+﻿[//]: outils.MGX_AFCTS_APP_COMPRESS_TEXT
+
+
+[//]: s{Parametres/}
 ## Parametres
 [//]: t{Parametres/}
 
