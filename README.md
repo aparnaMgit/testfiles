@@ -7,7 +7,7 @@
 
 | Idx | Nom     | Alias | Type          | Defaut | Description | Commentaire | Version | Spe | Dev |
 | :-: | ------- | ----- | ------------- | ------ | ----------- | ----------- | ------- | :-: | --- |
-|  1  | @Chaine |       | nvarchar(max) |        |             |             |         | [ ] |     |
+|  1  | @Chaine |     1 | nvarchar(max) |        |             |             |         | [ ] |     |
 |  2  | @Flags  |       | int           |        |             |             |         | [ ] |     |
 
 [//]: t{/Parametres/}
