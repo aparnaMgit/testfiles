@@ -1,14 +1,14 @@
-﻿[//]: outils.MGX_AFCTS_APP_COMPRESS_TEXT
+﻿[//]:outils.MGX_AFCTS_APP_COMPRESS_TEXT
 
 
-[//]: s{Parametres/}
+[//]:s{Parametres/}
 ## Parametres
-[//]: t{Parametres/}
+[//]:t{Parametres/}
 
 | Idx | Nom     | Alias | Type          | Defaut | Description | Commentaire | Version | Spe | Dev |
 | :-: | ------- | ----- | ------------- | ------ | ----------- | ----------- | ------- | :-: | --- |
 |  1  | @Chaine |       | nvarchar(max) |        |             |             |         | [ ] |     |
 |  2  | @Flags  |       | int           |        |             |             |         | [ ] |     |
 
-[//]: t{/Parametres/}
-[//]: s{/Parametres/}
+[//]:t{/Parametres/}
+[//]:s{/Parametres/}
