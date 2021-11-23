@@ -1,4 +1,4 @@
-[//]: outils.MGX_AFCTS_APP_COMPRESS_TEXT
+﻿[//]: outils.MGX_AFCTS_APP_COMPRESS_TEXT
 
 
 [//]: s{Parametres/}
@@ -12,5 +12,3 @@
 
 [//]: t{/Parametres/}
 [//]: s{/Parametres/}
-
-
