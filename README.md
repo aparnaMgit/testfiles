@@ -3,7 +3,10 @@
 # Table of contents
 1. [Introduction](#introduction)
 2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
+    a. [Sub paragraph](#subparagraph1)
+    b. The second level testing
+    c. The third level testing
+    
 3. [Another paragraph](#paragraph2)
 
 ## This is the introduction <a name="introduction"></a>
